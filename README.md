@@ -1,10 +1,10 @@
 # Seattle_AirBnB_Project
 
-MIS 6380.001 - Data Visualization
-Group Members: Shraddha Kadam, Nikita Adhikari, Aabha Desai, Rong He, Vineela Reddy Karnatakam, Lakshit Rajput
+## MIS 6380.001 - Data Visualization
+### Group Members: Shraddha Kadam, Nikita Adhikari, Aabha Desai, Rong He, Vineela Reddy Karnatakam, Lakshit Rajput
 
 
-Summary:
+### Summary:
 Airbnb is a large company that is in more than 191 countries. It is only continuing to grow in the future. The business success of airbnb is impressive. 
 This project revealed some secrets behind the success. More guests and hosts have used Airbnb to travel in a personalized way. 
 This project allowed different methods of data visualization to express these interesting insights efficiently. 
